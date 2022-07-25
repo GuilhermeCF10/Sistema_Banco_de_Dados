@@ -3,15 +3,8 @@
 
 
 <html>
-    <style>
-        div{
-            width: 100%;
-            display: flex;
-            flex-direction: row;
-        }
-    </style>
     <body>
-        <div class="nav">
+        <div class="nav" style="width: 100%, display: flex, flex-direction: row">
             <img src="https://upload.wikimedia.org/wikipedia/pt/e/e2/Logo_uerj_cor.gif" width="200"/>
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Logo-iprj.png" width="200"/>
         </div>
